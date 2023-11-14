@@ -1,12 +1,12 @@
 import React from 'react';
-import './blog.css';
+import './possibility.css';
 
-const Blog = () => {
+const Possibility = () => {
   return (
     <div>
-        Blog
+        Possibility
     </div>
   )
 }
 
-export default Blog
+export default Possibility
